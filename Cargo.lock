@@ -2148,6 +2148,7 @@ dependencies = [
  "log",
  "ogg",
  "parking_lot",
+ "portable-atomic",
  "portaudio-rs",
  "rand",
  "rand_distr",
